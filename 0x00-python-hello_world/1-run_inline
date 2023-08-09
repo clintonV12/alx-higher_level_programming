@@ -1,0 +1,6 @@
+#!/bin/bash
+echo $PYCODE >> temp
+python temp
+rm temp
+
+
